@@ -1,4 +1,4 @@
-bebrapa aplikasi yang wajib dipelajari :
+Belaajar bebrapa aplikasi yang wajib :
 - GIt
 - Laravel
 - Vue Js
