@@ -1,0 +1,5 @@
+bebrapa aplikasi yang wajib dipelajari :
+- GIt
+- Laravel
+- Vue Js
+- 
